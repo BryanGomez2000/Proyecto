@@ -1,6 +1,6 @@
 
 package Proyecto;
-//hola
+
 public class Multilistas
 {
   public static Nodo insertar(Nodo r, Nodo n, int nivel, String []etq)
